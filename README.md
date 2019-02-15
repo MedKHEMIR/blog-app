@@ -1,4 +1,4 @@
-# Blog - Dernière activité tutoriel Angular sur openClassroom.com
+# Blog
 [tuto angular en francais](https://openclassrooms.com/courses/developpez-avec-angular)
 
 ## Commentaires
